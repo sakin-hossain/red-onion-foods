@@ -1,0 +1,42 @@
+.banner__container {
+  background-image: url("https://i.ibb.co/wcnbjty/bannerbackground.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner {
+  text-align: center;
+}
+.banner h1 {
+  font-size: 50px;
+}
+.search__style {
+  margin: 0 auto;
+}
+
+.search__style input {
+  position: relative;
+  outline: none;
+  border-radius: 25px;
+  border: none;
+  padding: 15px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.search__btn {
+  position: relative;
+  outline: none;
+  right: 50px;
+  border-radius: 25px;
+  padding: 14.5px 25px;
+  border: none;
+  border-radius: 25px;
+  background-color: #f91944;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}

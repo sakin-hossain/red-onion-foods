@@ -1,0 +1,134 @@
+{
+  "breakfast": [
+    {
+      "img": "https://i.ibb.co/55tGsT5/breakfast4.png",
+      "title": "Bagel and Cream cheese",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/023t39W/breakfast1.png",
+      "title": "Eggs Benedict",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/CJs1rPy/breakfast2.png",
+      "title": "Breakfast Sandwich",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 10.99
+    },
+    {
+      "img": "https://i.ibb.co/X7q10Kr/breakfast5.png",
+      "title": "Toast Croissant Fired egg",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 8.99
+    },
+    {
+      "img": "https://i.ibb.co/XpwsSW2/breakfast3.png",
+      "title": "Baked Chicken",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 19.99
+    },
+    {
+      "img": "https://i.ibb.co/4RhkRk7/breakfast6.png",
+      "title": "Full Breakfast Fried Egg Toast Brunch",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 3.99
+    }
+  ],
+  "lunch": [
+    {
+      "img": "https://i.ibb.co/56DpHn0/lunch3.png",
+      "title": "Healthy Meal Plan",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/56DpHn0/lunch3.png",
+      "title": "Fired Chicken Bento",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 8.99
+    },
+    {
+      "img": "https://i.ibb.co/56DpHn0/lunch3.png",
+      "title": "Tarragon-Rubbedo-Salmon",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/56DpHn0/lunch3.png",
+      "title": "Indian Lunch",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 5.99
+    },
+    {
+      "img": "https://i.ibb.co/56DpHn0/lunch3.png",
+      "title": "Beef Steak",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 10.99
+    },
+    {
+      "img": "https://i.ibb.co/56DpHn0/lunch3.png",
+      "title": "Honey-Soy-Glazed Salmon with Peppers",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    }
+  ],
+  "dinner": [
+    {
+      "img": "https://i.ibb.co/pb3XFhj/dinner2.png",
+      "title": "Salmon with Grapefruit and Lentil Salad",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/gJHzRDg/dinner1.png",
+      "title": "French fries with cheese",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/1KyRwwQ/dinner4.png",
+      "title": "Lemony Salmon Piccata",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/PmjJ6nS/dinner6.png",
+      "title": "Garlic Butter Baked Salmon",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/B6xP1Xc/dinner5.png",
+      "title": "Pork Tenderlion With Quinoa Pilaf",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/DLcCg3V/dinner3.png",
+      "title": "Baked Chicken",
+      "ingredients": "How we dream about our future",
+      "description": "This roasted pearl millet tapas is a bit soft with a sticky texture. It bursts with the flavor of blueberries with anise and has pumpkin spice. It smells putrescent with a great deal of wild rice. It is peculiarly thick. You can really feel how whole food and how high in zinc it is.",
+      "price": 6.99
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.meal__items {
+  margin: 0 auto;
+  width: 300px;
+}
+.meal__items img {
+  width: 100%;
+}
+
+.meal__container {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #919191;
+  border-radius: 15px;
+}
+.meal__container:hover {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.meal__container p {
+  color: gray;
+}

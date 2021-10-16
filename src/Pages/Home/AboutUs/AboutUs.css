@@ -1,0 +1,28 @@
+.about__us__card {
+  max-width: 400px;
+  margin: 0 15px;
+  padding: 10px;
+}
+.about__us__card img {
+  opacity: 0.7;
+}
+.about__us__card img:hover {
+  opacity: 1;
+}
+.about__us__card h5 {
+  margin: 15px 0;
+  font-weight: 700;
+}
+.about__us__card p {
+  color: rgb(119, 119, 119);
+}
+.about__us__card a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+.about__us__card a span {
+  color: green;
+  font-size: 18px;
+  margin-left: 5px;
+}

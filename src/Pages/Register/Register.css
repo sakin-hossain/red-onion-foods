@@ -1,0 +1,31 @@
+.register {
+  background-image: url(../../images/bannerbackground.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.register input {
+  margin: 10px 0;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  padding: 10px 30px;
+  text-align: center;
+}
+.register a {
+  text-decoration: none;
+  color: #f91944;
+  text-align: center;
+}
+.btn__submit {
+  background-color: #f91944;
+  padding: 10px 95px;
+  object-fit: contain;
+  color: white;
+  font-weight: 600;
+}

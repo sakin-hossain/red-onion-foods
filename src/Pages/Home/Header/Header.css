@@ -22,12 +22,14 @@
   padding: 10px 21px;
   font-weight: 600;
   background-color: #fff;
+  border: 1px solid gray;
+  border-radius: 25px;
 }
 
 .btn__regular:hover {
   border-radius: 25px;
-  margin: 0 15px;
   background-color: #f91944;
   color: white;
   font-weight: 600;
+  transition: all 0.7s ease;
 }
